@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h2>FORMULIR DIRI</h2>
+<h2>FORMULIR</h2>
 
 <div class="container">
     <form action="process.php" method="POST">
